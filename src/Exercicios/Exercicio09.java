@@ -2,7 +2,7 @@ package Exercicios;
 
 public class Exercicio09 {
     public static void main(String[] args) {
-        System.out.println(">>>>>CÁLCULO DE FATORIAL<<<<<");
+        System.out.println(">>>>>JOGO DE ADIVINHAÇÃO<<<<<");
 
     }
 }
